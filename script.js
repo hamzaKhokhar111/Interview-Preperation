@@ -187,4 +187,5 @@
 // let {name,age,city}=user;
 // console.log(name);
 // console.log(age);
+// xc
 // console.log(city)// / Destienrn

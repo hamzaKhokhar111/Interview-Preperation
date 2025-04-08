@@ -62,8 +62,9 @@
 
 
 
-//weew
-// Reduce
+
+ 
+// Reduce  Mehthod in JS
 // let zz=[1,2,3,5,2]
 // let hh=zz.reduce((z1,h1)=>{
 //     return z1+h1

@@ -16,14 +16,14 @@
 // Let is LOcal scopr varible 
 // Let just can reassign value but not dedecalre varible
 
-// function xyz(){
-//     var ab=10;
-//     if(true){
-//         let ab=20;
-//         console.log(ab)
-//     }
-//     console.log(ab)
-// }
+    // function xyz(){
+    //     var ab=10;
+    //     if(true){
+    //         let ab=20;
+    //         console.log(ab)
+    //     }
+    //     console.log(ab)
+    // }
 
 // xyz();
 
@@ -60,6 +60,9 @@
 
 // console.log(abc)
 
+
+
+//weew
 // Reduce
 // let zz=[1,2,3,5,2]
 // let hh=zz.reduce((z1,h1)=>{

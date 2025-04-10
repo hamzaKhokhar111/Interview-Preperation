@@ -195,3 +195,7 @@
 // console.log(city)// / Destienrn
 // console.log(first)
 // console.log(first)
+
+
+// Question
+// what is Array in js

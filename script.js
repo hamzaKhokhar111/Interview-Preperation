@@ -154,7 +154,7 @@
 //  sum("Heloo",12,2,3);
 //  sum(12,12,2);
 
-
+//s
                                         // speread OPerator
 // agr hum chaty hain k hamri ("hamza",10,20,02) es trah l argument bhi pass krle functin to humko  E6 ka speread operator use krna hoga... ka use krna hoga
 // function sum(name,...ags) {

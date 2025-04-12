@@ -4,7 +4,8 @@
 
 // An object is a special data type in JavaScript that lets us store multiple values in one variable in the form of key-value pairs.
 
-// Why Use Objects?
+
+// Q# Why Use Objects ?
 // To group related data together.
 // To write cleaner and more organized code.
 // To model real-world entities (like users, products, cars, etc).
@@ -63,6 +64,7 @@
 
 
 
+
 //   Interview Definition (Short & Sweet):
 //   “An object in JavaScript is a collection of key-value pairs used to store and organize data. Objects can also have functions, which are called methods.”
 
@@ -102,10 +104,12 @@
 // A method is a function inside an object. Jab kisi object ke andar koi function likha jata hai, usay object method kehty hain.
 // Ye method us object ke properties ke sath kaam karta hai using this keyword.
 
-// 🧠 Why Use Object Methods?
+
+
+//  Why Use Object Methods?
 // Behavior define krne ke liye (like actions).
 // Reusable code ke liye.
-
+  
 
 // const person = {
 //     name: "Hamza",

@@ -199,3 +199,86 @@
 
 // Question
 // what is Array in js
+
+
+// Question
+// what is sets in js
+// sets uniquie values of store krt hain or duplicates ko remove krta hain
+// :>A JavaScript Set is a collection of unique values.
+// :>Each value can only occur once in a Set.
+// :>The values can be of any type, primitive values or objects.
+// const letters = new Set([1,2,3,4,5]);
+// letters.add(7);
+
+
+//question
+//what is Map
+// A Map holds key-value pairs where the keys can be any datatype.
+// A Map remembers the original insertion order of the keys.
+
+
+// const fruits = new Map([ ["apples", 500], ["bananas", 300], ["oranges", 200]  ]);
+
+// // Set Map Values
+// fruits.set("apples", 500);
+// fruits.size;
+// fruits.size;
+// The clear() method removes all the elements from a map
+// fruits.clear();
+
+
+
+
+
+
+// Primitive Data Types
+// In JavaScript, a primitive value is a single value with no properties or methods.
+// JavaScript has 7 primitive data types:
+
+// string
+// number
+// boolean
+// bigint
+// symbol
+// null
+// undefined
+
+
+// EXAMPLE
+    // typeof "John"         // Returns string
+    // typeof ("John"+"Doe") // Returns string
+    // typeof 3.14           // Returns number
+    // typeof 33             // Returns number
+    // typeof (33 + 66)      // Returns number
+    // typeof true           // Returns boolean
+    // typeof false          // Returns boolean
+    // typeof 1234n          // Returns bigint
+    // typeof Symbol()       // Returns symbol
+    // typeof x              // Returns undefined
+
+
+
+
+
+//     Complex Data Types
+// A complex data type can store multiple values and/or different data types together.
+
+// JavaScript has one complex data type:
+
+// object
+// All other complex types like arrays, functions, sets, and maps are just different types of objects.
+
+// The typeof operator returns only two types:
+// 1:>object
+// 2:>function
+
+
+// EXAPLES
+// typeof {name:'John'}   // Returns object
+// typeof [1,2,3,4]       // Returns object
+// typeof new Map()       // Returns object
+// typeof new Set()       // Returns object
+
+// typeof function (){}   // Returns function
+
+// Thats mean k in javaScript everything is a Object

@@ -33,6 +33,14 @@
 // var a=20;
 // console.log(a)
 
+// 💡 Hoisting kya hoti hai?
+// JavaScript mein hoisting ka matlab hai:
+// Variables aur functions ko unki declaration se pehle memory mein allocate kar lena.
+// Matlab, JavaScript pehle code ko run karne se pehle usmein jitne var se variables aur functions declare hue hain, unko "top of their scope" pe le jata hai. Isko hi hoisting kehte hain.
+
+
+
+
 //what is tempororal deadzone (let,const) and Hoisting(var) ?
 
 // ??Hoisting (mechanism is a js where variable and funtion declare are moved to the top of their containg scope execution)

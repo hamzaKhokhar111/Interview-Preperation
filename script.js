@@ -1,3 +1,4 @@
+// JavaScript variables have 3 types of scope:
 // local scope && global scope
 // let, var, const
 // let, const is a local scope variable
@@ -180,8 +181,9 @@
 // // ye E6 version se phely es tarah hota tarah es lye hum opr qwaly ko array deresting Array khty hain
 // let name=user[0];
 // let age=user[1];
-
-// structuring Object E6
+ 
+                           
+                              // structuring Object E6
 // let user={
 //     name:"Hamza",
 //     age:22,
@@ -282,3 +284,50 @@
 // typeof function (){}   // Returns function
 
 // Thats mean k in javaScript everything is a Object
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// What Is a Regular Expression?
+// A regular expression is a sequence of characters that forms a search pattern.
+// When you search for data in a text, you can use this search pattern to describe what you are searching for.
+// A regular expression can be a single character, or a more complicated pattern.
+// let text = "Visit W3Schools!";
+// let n = text.search("W3Schools");
+// output    :// 6
+
+// What is JavaScript Operator Precedence ?
+// Operator precedence describes the order in which operations are performed in an arithmetic expression.
+// Multiplication (*) and division (/) have higher precedence than addition (+) and subtraction (-).
+// * >> / >>  + >> -
+// Yeh partially sahi hai, lekin technically *, /, aur % same level par hotay hain (equal precedence), aur evaluation left to right hoti hai.
+
+// let result = 10 + 6 / 2 * 3 - 1;
+// 6 / 2 = 3
+// 3 * 3 = 9
+// 10 + 9 = 19
+// 19 - 1 = 18
+// console.log(result); // 18
+
+
+
+
+// Eroor
+// Throw, and Try...Catch...Finally
+// The try statement defines a code block to run (to try).
+
+// The catch statement defines a code block to handle any error.
+
+// The finally statement defines a code block to run regardless of the result.
+
+// The throw statement defines a custom error.
